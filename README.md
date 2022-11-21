@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 
 <br/>
+<b>
 More about me! →
+</b>  
 <a href="https://senti-o-study.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE5196?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/cc69d56b75e1450b86d78f99ff62909a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
